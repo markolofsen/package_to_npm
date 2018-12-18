@@ -21,7 +21,7 @@ No requiere software especial - funciona en el navegador.
 
 ### Pruébalo ahora - <a href="https://gitupload.com">GtUpload.com</a>
 
-Versión = 0.0.3 <br />
+Versión = 0.0.4 <br />
 Nombre de la biblioteca = package_to_npm <br />
 Título = How to upload package to NPM <br />
 Palabras clave = Git,  upload,  package,  repo,  node,  javascript,  npm,  js <br />

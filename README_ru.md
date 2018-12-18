@@ -21,7 +21,7 @@
 
 ### Попробуйте сейчас - <a href="https://gitupload.com">GtUpload.com</a>
 
-Версия = 0.0.3 <br />
+Версия = 0.0.4 <br />
 Название библиотеки = package_to_npm <br />
 Название = How to upload package to NPM <br />
 Ключевые слова = Git,  upload,  package,  repo,  node,  javascript,  npm,  js <br />
